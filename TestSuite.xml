@@ -1,0 +1,7 @@
+<suite name="FormValidation">
+    <test name="FormTestCases">
+        <classes>
+            <class name="tests.FormTests"> </class>
+        </classes>
+    </test>
+</suite>
